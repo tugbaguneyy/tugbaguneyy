@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuğba</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">✨creating my own world with coding✨</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 - 🌱 I’m currently learning **Web3, Rust, Flutter**
