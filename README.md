@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tuğba</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning
 
 - 📝 I regularly write articles on [https://medium.com/@hotreloadiaries](https://medium.com/@hotreloadiaries)
 
